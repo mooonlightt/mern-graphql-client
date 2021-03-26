@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage" :"https://mooonlightt.github.io/mern-graphql-client",
+  "homepage" :"https://mooonlightt.github.io/mern-graphql-client/",  
   "dependencies": {
     "@apollo/react-hooks": "0.1.0-beta.7",
     "apollo-cache-inmemory": "^1.6.2",
