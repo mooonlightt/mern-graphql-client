@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mern-graphql-client/static/css/main.ee287267.chunk.css",
+    "main.js": "/mern-graphql-client/static/js/main.111e49f4.chunk.js",
+    "main.js.map": "/mern-graphql-client/static/js/main.111e49f4.chunk.js.map",
+    "runtime~main.js": "/mern-graphql-client/static/js/runtime~main.4c9eb065.js",
+    "runtime~main.js.map": "/mern-graphql-client/static/js/runtime~main.4c9eb065.js.map",
+    "static/css/2.ce95ad81.chunk.css": "/mern-graphql-client/static/css/2.ce95ad81.chunk.css",
+    "static/js/2.5804c667.chunk.js": "/mern-graphql-client/static/js/2.5804c667.chunk.js",
+    "static/js/2.5804c667.chunk.js.map": "/mern-graphql-client/static/js/2.5804c667.chunk.js.map",
+    "index.html": "/mern-graphql-client/index.html",
+    "precache-manifest.fb6b884f4f78f336d03f894c5662bc81.js": "/mern-graphql-client/precache-manifest.fb6b884f4f78f336d03f894c5662bc81.js",
+    "service-worker.js": "/mern-graphql-client/service-worker.js",
+    "static/css/2.ce95ad81.chunk.css.map": "/mern-graphql-client/static/css/2.ce95ad81.chunk.css.map",
+    "static/css/main.ee287267.chunk.css.map": "/mern-graphql-client/static/css/main.ee287267.chunk.css.map",
+    "static/media/semantic.min.css": "/mern-graphql-client/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
