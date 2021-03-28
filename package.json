@@ -46,5 +46,5 @@
   "devDependencies": {
     "gh-pages": "^3.1.0"
   },
-  "proxy" : "http://merngraphql.herokuapp.com"
+  "proxy" : "https://reactgraphqlapp.herokuapp.coms"
 }
