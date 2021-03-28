@@ -7,7 +7,7 @@ import { ApolloProvider } from '@apollo/react-hooks';
 import { setContext } from 'apollo-link-context';
 
 const httpLink = createHttpLink({
-  uri: 'http://merngraphql.herokuapp.com/'
+  uri: 'http://merngraphql.herokuapp.com'
   //uri: 'http://localhost:5000'
 });
 
